@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
 
 <p><img src="/1.png" alt="First page"></p>
 <p><img src="/2.png" alt="First page"></p>
