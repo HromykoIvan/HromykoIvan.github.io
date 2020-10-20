@@ -1,3 +1,4 @@
 ## Welcome to GitHub Pages
 
-https://www.canva.com/design/DAEI4WpDwOM/VBOuWGWfyomTx7eZ_Mkv6w/view#1
+<p><img src="/1.png" alt="First page"></p>
+<p><img src="/2.png" alt="First page"></p>
